@@ -64,7 +64,7 @@ I specialize in building dynamic and responsive web applications using the **MER
 - Advanced TypeScript
 - SQL & Relational Databases
 - System Design & Architecture
-- Next.js (for SSR and API Routes)
+- Next.js
 
 ---
 
@@ -83,9 +83,9 @@ Check out the pinned projects below 👇
 
 <div align="center">
   
-![Saif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saifullahafridi08&show_icons=true&theme=react&hide_border=true)
+![Saif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saifullah-Afridi&show_icons=true&theme=react&hide_border=true)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saifullahafridi08&layout=compact&theme=react&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saifullah-Afridi&layout=compact&theme=react&hide_border=true)
 
 </div>
 
@@ -95,7 +95,7 @@ Check out the pinned projects below 👇
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Saifullahafridi08&theme=react&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Saifullah-Afridi&theme=react&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -103,8 +103,8 @@ Check out the pinned projects below 👇
 
 ## 🔗 Let’s Connect
 
-- 📄 [**Resume**](#) <!-- Replace # with actual resume link -->
-- 🌐 [**Portfolio**](#) <!-- Replace # with actual portfolio link -->
+- 📄 [**Resume**](#) <!-- Replace # with your actual resume link -->
+- 🌐 [**Portfolio**](#) <!-- Replace # with your actual portfolio link -->
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/saif-ullah-afridi-4330671b0/)
 
 ---
