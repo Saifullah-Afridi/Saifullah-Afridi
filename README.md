@@ -91,16 +91,6 @@ Check out the pinned projects below 👇
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Saifullah-Afridi&theme=react&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🔗 Let’s Connect
 
 - 📄 [**Resume**](#) <!-- Replace # with your actual resume link -->
