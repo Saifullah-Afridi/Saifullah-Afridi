@@ -11,7 +11,6 @@ I specialize in building dynamic and responsive web applications using the **MER
 ## 🚀 Tech Stack
 
 ### 💡 Languages & Tools
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -86,6 +85,8 @@ Check out the pinned projects below 👇
 ![Saif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saifullah-Afridi&show_icons=true&theme=react&hide_border=true)
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saifullah-Afridi&layout=compact&theme=react&hide_border=true)
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saifullah-Afridi&theme=github_dark)
 
 </div>
 
