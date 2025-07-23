@@ -15,6 +15,7 @@ I specialize in building dynamic and responsive web applications using the **MER
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🌐 Web Development
+
 **Frontend**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
@@ -74,19 +75,22 @@ I enjoy building practical web apps focused on:
 - Clean UI/UX
 - Scalable architecture
 
-Check out the pinned projects below 👇
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Saif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saifullah-Afridi&show_icons=true&theme=react&hide_border=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saifullah-Afridi&layout=compact&theme=react&hide_border=true)
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saifullah-Afridi&theme=github_dark)
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Saifullah-Afridi&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+
+<!-- Top Languages (excluding C++) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifullah-Afridi&layout=compact&theme=react&hide_border=true&hide=cpp,c" alt="Top Languages" />
+
+<!-- Profile Summary Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saifullah-Afridi&theme=github_dark" alt="Summary Card" />
 
 </div>
 
@@ -100,4 +104,4 @@ Check out the pinned projects below 👇
 
 ---
 
-> 🌓 Badges and cards adapt to light/dark GitHub themes.
+
