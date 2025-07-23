@@ -77,22 +77,6 @@ I enjoy building practical web apps focused on:
 
 
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Saifullah-Afridi&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-
-<!-- Top Languages (workaround) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifullah-Afridi&layout=compact&theme=react&hide_border=true&hide=cpp,c&langs_count=5" alt="Top Languages" />
-
-<!-- Profile Summary Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saifullah-Afridi&theme=github_dark" alt="Summary Card" />
-
-</div>
 
 ---
 
