@@ -78,5 +78,3 @@ My focus is on:
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/saif-ullah-afridi-4330671b0/
-- Resume: (Add your link here)
-- Portfolio: (Add your link here)
