@@ -1,92 +1,97 @@
 # 👋 Welcome to My GitHub!
 
+---
+
 ## 👨‍💻 About Me
 
-Hi, I’m **Saif Ullah**, a **Computer Science graduate** from the University of Peshawar 🎓 and a passionate **Full-Stack Web Developer**.
+Hi, I’m **Saif Ullah**, a **Full-Stack Engineer** and Computer Science graduate from the University of Peshawar 🎓.
 
-I specialize in building dynamic and responsive web applications using the **MERN stack**. I'm always excited to learn new technologies, build real-world projects, and stay up-to-date with the latest trends in web development.
+I specialize in building scalable web applications using **Next.js, React, and the MERN stack**.  
+My focus has evolved from just building features to understanding **architecture, performance, and system design**.
 
----
-
-## 🚀 Tech Stack
-
-### 💡 Languages & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🌐 Web Development
-
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Database**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+I care about:
+- Clean folder structures
+- Rendering strategies (SSG, ISR, SSR)
+- Scalable backend APIs
+- Role-based authentication systems
+- Maintainable and production-ready code
 
 ---
 
-## 🧠 Development Focus
+# 🚀 Tech Stack
 
-- 🗂️ **Global State Management**  
-  `Redux Toolkit`, `Context API`, `Redux Persist`
+## 💡 Languages & Core
 
-- 📄 **Form Handling & Validation**  
-  `Formik`, `Yup`, `React Hook Form`
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql)
 
-- 🧪 **Testing**  
-  `Jest`, `React Testing Library`
+---
 
-- 🌐 **Routing & Navigation**  
-  `React Router`, `createBrowserRouter`
+## 🌐 Frontend
 
-- 🧾 **Authentication & Middleware**  
-  JWT Auth, Express Middleware, Role-based Access
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css)
+![ShadCN](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge)
+![ChakraUI](https://img.shields.io/badge/Chakra_UI-000000?style=for-the-badge&logo=chakraui)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-000000?style=for-the-badge&logo=redux)
 
-- ⚙️ **Backend APIs & Integration**  
-  RESTful API Design, Axios, Express.js Routing
+---
+
+## ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+
+---
+
+## 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+
+---
+
+## 🧪 Engineering Practices
+
+- Global State Management (Redux Toolkit, Context API)
+- API Layer Structuring
+- Role-Based Access Control
+- Protected Routing
+- Form Validation (Formik + Yup)
+- Testing (Jest, React Testing Library)
+- Feature-Based Architecture
+
+---
+
+## 🏗 Projects
+
+I build:
+
+- 🛒 E-commerce platforms (multi-role systems)
+- 🏥 Hospital Management Systems
+- 🏫 School Management Dashboards
+- ⛓ Blockchain-based healthcare system (Ethereum + Solidity)
+- 🔐 Secure authentication systems with refresh tokens
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced TypeScript
-- SQL & Relational Databases
-- System Design & Architecture
-- Next.js
+- Advanced Next.js (Server Actions, Caching, Mutations)
+- System Design Patterns
+- SQL Optimization
+- Scalable Architecture
 
 ---
 
-## 📁 Projects
+## 🔗 Connect With Me
 
-I enjoy building practical web apps focused on:
-- Real-world functionality
-- Clean UI/UX
-- Scalable architecture
+💼 LinkedIn:  
+https://www.linkedin.com/in/saif-ullah-afridi-4330671b0/
 
-
-
-
----
-
-
-## 🔗 Let’s Connect
-
-- 📄 [**Resume**](#) <!-- Replace # with your actual resume link -->
-- 🌐 [**Portfolio**](#) <!-- Replace # with your actual portfolio link -->
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/saif-ullah-afridi-4330671b0/)
-
----
-
-
+📄 Resume: Add your link  
+🌐 Portfolio: Add your link
