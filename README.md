@@ -1,30 +1,29 @@
 <!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Assalamu+Alaikum+👋;Hi,+I'm+Saif+Ullah;Full-Stack+Engineer;Next.js+%7C+MERN+%7C+System+Design+Learner;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Assalamu+Alaikum;Hi,+I'm+Saif+Ullah;Full-Stack+Engineer;Next.js+%7C+MERN+%7C+System+Design;Building+Scalable+Applications" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
-I’m **Saif Ullah**, a Full-Stack Engineer and Computer Science graduate from the University of Peshawar 🎓  
+I’m **Saif Ullah**, a Full-Stack Engineer and Computer Science graduate from the University of Peshawar.
 
 I build scalable web applications using **Next.js, React, and the MERN stack**.
 
-My focus is no longer just writing code —  
-I think in terms of:
+My focus is on:
 
-- 🏗 Architecture
-- ⚡ Performance
-- 🔐 Secure Authentication
-- 📦 Scalable API Design
-- 🧠 System Design Principles
+- Clean architecture  
+- Performance & rendering strategies (SSG, ISR, SSR)  
+- Secure authentication systems  
+- Scalable backend API design  
+- Production-ready folder structures  
 
 ---
 
-# 🚀 Tech Stack
+## Tech Stack
 
-## 💡 Languages
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
@@ -32,18 +31,18 @@ I think in terms of:
 
 ---
 
-## 🌐 Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css)
-![ShadCN](https://img.shields.io/badge/ShadCN_UI-111111?style=for-the-badge)
-![ChakraUI](https://img.shields.io/badge/Chakra_UI-111111?style=for-the-badge&logo=chakraui)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-111111?style=for-the-badge)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-111111?style=for-the-badge&logo=chakraui)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-111111?style=for-the-badge&logo=redux)
 
 ---
 
-## ⚙️ Backend
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express)
@@ -52,14 +51,14 @@ I think in terms of:
 
 ---
 
-## 🗄 Database
+### Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saifullah-Afridi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -68,7 +67,7 @@ I think in terms of:
 
 ---
 
-# 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saifullah-Afridi&theme=tokyo-night&hide_border=true" />
@@ -76,19 +75,8 @@ I think in terms of:
 
 ---
 
-# 🎯 Currently Leveling Up
+## Connect
 
-- Advanced Next.js (Server Actions, Caching, ISR)
-- System Design & Architecture
-- SQL Optimization
-- Production-Grade Folder Structures
-
----
-
-# 🔗 Connect With Me
-
-💼 LinkedIn  
-https://www.linkedin.com/in/saif-ullah-afridi-4330671b0/
-
-📄 Resume – Add your link  
-🌐 Portfolio – Add your link
+- LinkedIn: https://www.linkedin.com/in/saif-ullah-afridi-4330671b0/
+- Resume: (Add your link here)
+- Portfolio: (Add your link here)
