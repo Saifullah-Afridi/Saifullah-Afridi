@@ -14,42 +14,30 @@ I build web applications with **Next.js**, **React**, and the **MERN stack**. I 
 
 ### Languages
 
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br/>TypeScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>SQL</td>
-  </tr>
-</table>
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql)
 
 ### Frontend
 
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>Next.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="40"/><br/>Redux Toolkit</td>
-  </tr>
-</table>
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-111111?style=for-the-badge)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-111111?style=for-the-badge&logo=chakraui)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-111111?style=for-the-badge&logo=redux)
 
 ### Backend
 
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express</td>
-  </tr>
-</table>
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/JWT-111111?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge)
 
 ### Database
 
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL</td>
-  </tr>
-</table>
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
 
 ---
 
