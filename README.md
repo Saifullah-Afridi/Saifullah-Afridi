@@ -14,19 +14,42 @@ I build web applications with **Next.js**, **React**, and the **MERN stack**. I 
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=ts,js,mysql" />
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br/>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>SQL</td>
+  </tr>
+</table>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux" />
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="40"/><br/>Redux Toolkit</td>
+  </tr>
+</table>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express</td>
+  </tr>
+</table>
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL</td>
+  </tr>
+</table>
 
 ---
 
