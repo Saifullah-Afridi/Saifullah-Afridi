@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Saif Ullah</h1>
-  <p>Full-Stack Engineer &nbsp;·&nbsp; University of Peshawar</p>
+  <p>Full-Stack Web developer</p>
   <a href="https://www.linkedin.com/in/saif-ullah-afridi-4330671b0/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Saifullah-Afridi">GitHub</a>
