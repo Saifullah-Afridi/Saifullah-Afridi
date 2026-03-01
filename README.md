@@ -1,19 +1,34 @@
 <div align="center">
   <h1>Saif Ullah</h1>
   <p>Full-Stack Engineer &nbsp;·&nbsp; University of Peshawar</p>
-  <p>
-    <a href="https://www.linkedin.com/in/saif-ullah-afridi-4330671b0/">LinkedIn</a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/Saifullah-Afridi">GitHub</a>
-  </p>
+  <a href="https://www.linkedin.com/in/saif-ullah-afridi-4330671b0/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Saifullah-Afridi">GitHub</a>
 </div>
 
-I build web applications with Next.js, React, and the MERN stack. I care about clean architecture, rendering strategies (SSG · ISR · SSR), and APIs that are boring to maintain — in a good way.
+<br/>
 
-Languages    TypeScript · JavaScript · SQL
-Frontend     Next.js · React · Tailwind · ShadCN · Chakra UI · Redux Toolkit
-Backend      Node.js · Express · REST · JWT
-Database     MongoDB · MySQL
+I build web applications with **Next.js**, **React**, and the **MERN stack**. I care about clean architecture, rendering strategies (SSG · ISR · SSR), and APIs that are boring to maintain — in a good way.
+
+---
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,mysql" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+---
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Saifullah-Afridi&theme=tokyonight&hide_border=true" height="165" />
