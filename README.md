@@ -34,12 +34,6 @@
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Saifullah-Afridi&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=6e7681&dates=6e7681&currStreakNum=e6edf3&sideNums=e6edf3)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 🛠 &nbsp; Tech Stack
