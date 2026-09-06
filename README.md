@@ -21,6 +21,18 @@ I'm currently deepening my expertise in **DevOps and cloud infrastructure** — 
 
 ---
 
+## Project in Action
+
+<div align="center">
+
+<img src="https://placehold.co/800x420/1a1a2e/ffffff?text=Replace+with+your+project+demo+GIF" width="80%"/>
+
+</div>
+
+<sub>Replace the placeholder above with a short screen recording of one of your live projects (e.g. record with Kap/ScreenToGif → save as `.gif` → upload to your repo → point the `src` at it).</sub>
+
+---
+
 ## Technical Stack
 
 **Frontend**
@@ -41,6 +53,20 @@ I'm currently deepening my expertise in **DevOps and cloud infrastructure** — 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,redux,nodejs,express,mongodb,postgresql,mysql,redis,docker,aws,linux,git,github&theme=dark" />
 </div>
+
+---
+
+## Weekly Coding Activity
+
+```text
+Typescript   12 hrs 30 mins  ████████████░░░░░░░░   58.2%
+JavaScript   4 hrs 10 mins   ████░░░░░░░░░░░░░░░░   19.4%
+Node.js      2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░   12.8%
+Docker       1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░    6.2%
+Other        45 mins         █░░░░░░░░░░░░░░░░░░░    3.4%
+```
+
+<sub>This updates automatically once connected — install the <a href="https://wakatime.com/">WakaTime</a> extension in your editor, then add the <a href="https://github.com/athul/waka-readme">waka-readme</a> GitHub Action to your profile repo with your `WAKATIME_API_KEY`. It'll rewrite this block with your real weekly stats on a schedule.</sub>
 
 ---
 
