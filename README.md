@@ -2,131 +2,64 @@
 
 # Saif Ullah
 
-### Full-Stack Web Developer
+**Senior Full-Stack Developer · MERN Specialist · Business Systems & Automation**
 
-Building modern, scalable and user-focused web applications with **React, Next.js, TypeScript, Node.js and modern backend technologies.**
+I design and ship production-grade web applications — from architecture and APIs to deployment — with a focus on maintainability, performance, and real business outcomes.
 
-<p>
-  <a href="https://github.com/Saifullah-Afridi">GitHub</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/saif-ullah-afridi-4330671b0">LinkedIn</a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Saifullah--Afridi-181717?style=flat-square&logo=github)](https://github.com/Saifullah-Afridi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saif%20Ullah-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/saif-ullah-afridi-4330671b0)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm a **Full-Stack Web Developer** focused on building modern web applications from frontend to backend.
+I'm a full-stack developer specializing in the **MERN stack**, building complete systems — responsive frontends, REST APIs, databases, authentication, and deployment pipelines — rather than isolated features.
 
-I work primarily with the **MERN ecosystem**, along with **TypeScript, Next.js, PostgreSQL, Prisma and REST APIs**.
+Most of my work centers on **business-critical applications**: management systems, e-commerce platforms, internal tooling, and workflow automation, often integrated with **ERP systems (Odoo)** to solve real operational problems.
 
-I enjoy turning ideas and business requirements into practical software — from responsive user interfaces and secure APIs to database design, authentication and deployment.
-
-My experience includes building:
-
-* Full-stack web applications
-* Business management systems
-* E-commerce platforms
-* REST APIs and backend services
-* Admin dashboards and internal tools
-* ERP and business automation solutions
-
-I'm currently strengthening my skills in **Linux, Docker, CI/CD, cloud infrastructure and application deployment** to become a stronger end-to-end developer.
+I'm currently deepening my expertise in **DevOps and cloud infrastructure** — Linux, Docker, and scalable deployment architecture — to take ownership of applications end-to-end, from code to production.
 
 ---
 
-## Tech Stack
+## Technical Stack
+
+**Frontend**
+`React` `Next.js` `TypeScript` `JavaScript (ES6+)` `Redux` `Tailwind CSS` `Vite`
+
+**Backend**
+`Node.js` `Express.js` `REST API Design` `Authentication & Authorization` `API Architecture`
+
+**Data & Storage**
+`MongoDB` `PostgreSQL` `MySQL` `Redis` `Prisma`
+
+**Infrastructure & Tooling**
+`Linux` `Docker` `Git / GitHub` `AWS` `CI/CD` `Deployment Automation`
+
+**Business Systems**
+`ERP` `Odoo` `Workflow Automation` `Process Integration`
 
 <div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,redux,vite&theme=dark" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,typescript&theme=dark" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,prisma&theme=dark" />
-
-### Tools & DevOps
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,redux,nodejs,express,mongodb,postgresql,mysql,redis,docker,aws,linux,git,github&theme=dark" />
 </div>
-
----
-
-## What I Do
-
-```text
-Frontend Development
-React · Next.js · TypeScript · JavaScript · Tailwind CSS
-
-Backend Development
-Node.js · Express.js · REST APIs · Authentication · API Design
-
-Database Engineering
-MongoDB · PostgreSQL · MySQL · Redis · Prisma
-
-Full-Stack Development
-MERN · Next.js · TypeScript · Full-Stack Applications
-
-Business Applications
-Management Systems · E-Commerce · ERP · Business Automation
-
-DevOps & Deployment
-Linux · Docker · CI/CD · Cloud · Application Deployment
-```
 
 ---
 
 ## Areas of Focus
 
-| Area                   | Focus                                                      |
-| ---------------------- | ---------------------------------------------------------- |
-| Full-Stack Development | Building complete production-ready web applications        |
-| Frontend               | Responsive, accessible and modern user interfaces          |
-| Backend                | REST APIs, authentication, business logic and architecture |
-| Databases              | Data modeling, queries, relationships and performance      |
-| Web Applications       | E-commerce, dashboards, management systems and SaaS        |
-| DevOps                 | Linux, Docker, CI/CD and cloud deployment                  |
+| Area | What I Deliver |
+|---|---|
+| **Full-Stack Applications** | End-to-end MERN systems, from data model to UI |
+| **Business & Management Systems** | Internal tools, dashboards, workflow platforms |
+| **E-Commerce** | Customer-facing storefronts + admin/back-office systems |
+| **APIs & Backend Architecture** | Secure, scalable REST APIs and service design |
+| **ERP & Automation** | Odoo customization, business process automation |
+| **DevOps** | Containerization, deployment pipelines, cloud infrastructure |
 
 ---
 
-## Development Approach
-
-I focus on building applications that are:
-
-**Clean** — Maintainable and organized code
-
-**Practical** — Designed around real business requirements
-
-**Responsive** — Built for desktop, tablet and mobile
-
-**Scalable** — Structured to grow as the application grows
-
-**Reliable** — Proper validation, authentication and error handling
-
----
-
-## Currently Learning
-
-**Advanced Full-Stack Development**
-
-TypeScript · Next.js · Backend Architecture · PostgreSQL · Redis · Performance
-
-**DevOps & Infrastructure**
-
-Linux · Docker · CI/CD · Cloud · Deployment · Infrastructure
-
----
-
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
@@ -141,22 +74,18 @@ Linux · Docker · CI/CD · Cloud · Deployment · Infrastructure
 
 ---
 
-## Let's Build Something
+## Currently Sharpening
 
-I'm interested in working on **web applications, SaaS products, business platforms, APIs and automation systems**.
+- **DevOps & Infrastructure** — Linux, Docker, CI/CD, cloud deployment
+- **Backend Architecture at Scale** — performance, security, and system design for production workloads
+
+---
 
 <div align="center">
 
-<a href="https://github.com/Saifullah-Afridi">
-  <img src="https://img.shields.io/github/followers/Saifullah-Afridi?label=Followers&style=flat-square&logo=github" />
-</a>
+**Open to full-stack, backend, and business-automation opportunities.**
 
-<a href="https://komarev.com/ghpvc/?username=Saifullah-Afridi">
-  <img src="https://komarev.com/ghpvc/?username=Saifullah-Afridi&style=flat-square&label=Profile+Views" />
-</a>
-
-<br><br>
-
-### Build. Learn. Ship. Repeat.
+[![Followers](https://img.shields.io/github/followers/Saifullah-Afridi?label=Followers&style=flat-square&logo=github)](https://github.com/Saifullah-Afridi)
+[![Profile Views](https://komarev.com/ghpvc/?username=Saifullah-Afridi&style=flat-square&label=Profile+Views)](https://github.com/Saifullah-Afridi)
 
 </div>
