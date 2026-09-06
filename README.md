@@ -2,7 +2,7 @@
 
 # Saif Ullah
 
-**Senior Full-Stack Developer · MERN Specialist · Business Systems & Automation**
+**MERN Developer · Web Developer**
 
 I design and ship production-grade web applications — from architecture and APIs to deployment — with a focus on maintainability, performance, and real business outcomes.
 
@@ -63,11 +63,12 @@ I'm currently deepening my expertise in **DevOps and cloud infrastructure** — 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saifullah-Afridi&theme=github_dark" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Saifullah-Afridi&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifullah-Afridi&layout=compact&theme=dark&hide_border=true" width="42%"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saifullah-Afridi&theme=github_dark" width="90%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saifullah-Afridi&theme=dark&hide_border=true" width="60%"/>
 
 </div>
 
