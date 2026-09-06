@@ -2,9 +2,9 @@
 
 # Saif Ullah
 
-### Full-Stack Developer · MERN · Business Automation
+### Full-Stack Web Developer
 
-Building practical, scalable web applications with **JavaScript, TypeScript, React, Node.js and modern backend technologies.**
+Building modern, scalable and user-focused web applications with **React, Next.js, TypeScript, Node.js and modern backend technologies.**
 
 <p>
   <a href="https://github.com/Saifullah-Afridi">GitHub</a>
@@ -16,21 +16,28 @@ Building practical, scalable web applications with **JavaScript, TypeScript, Rea
 
 ---
 
-## About
+## About Me
 
-I'm a **Full-Stack Developer** focused primarily on the **MERN stack**.
+I'm a **Full-Stack Web Developer** focused on building modern web applications from frontend to backend.
 
-I enjoy building complete applications — from responsive interfaces and REST APIs to databases, authentication, business logic, and deployment.
+I work primarily with the **MERN ecosystem**, along with **TypeScript, Next.js, PostgreSQL, Prisma and REST APIs**.
 
-My work is mostly around **real-world business applications**, including management systems, e-commerce, internal tools, and automation.
+I enjoy turning ideas and business requirements into practical software — from responsive user interfaces and secure APIs to database design, authentication and deployment.
 
-I also work with **ERP systems and Odoo** when solving business-process and automation problems.
+My experience includes building:
 
-Currently expanding my knowledge in **DevOps, Linux, Docker, cloud infrastructure, and scalable application architecture.**
+* Full-stack web applications
+* Business management systems
+* E-commerce platforms
+* REST APIs and backend services
+* Admin dashboards and internal tools
+* ERP and business automation solutions
+
+I'm currently strengthening my skills in **Linux, Docker, CI/CD, cloud infrastructure and application deployment** to become a stronger end-to-end developer.
 
 ---
 
-## Core Stack
+## Tech Stack
 
 <div align="center">
 
@@ -44,73 +51,82 @@ Currently expanding my knowledge in **DevOps, Linux, Docker, cloud infrastructur
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,prisma&theme=dark" />
 
-### DevOps & Tools
+### Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws&theme=dark" />
 
 </div>
 
 ---
 
-## What I Work With
+## What I Do
 
 ```text
-Frontend
-React · Next.js · TypeScript · JavaScript · Tailwind CSS · Redux
+Frontend Development
+React · Next.js · TypeScript · JavaScript · Tailwind CSS
 
-Backend
-Node.js · Express.js · REST APIs · Authentication · API Architecture
+Backend Development
+Node.js · Express.js · REST APIs · Authentication · API Design
 
-Database
+Database Engineering
 MongoDB · PostgreSQL · MySQL · Redis · Prisma
 
-DevOps
-Linux · Docker · Git · GitHub · AWS · Deployment
+Full-Stack Development
+MERN · Next.js · TypeScript · Full-Stack Applications
 
-Business Systems
-ERP · Odoo · Business Automation · Management Systems
+Business Applications
+Management Systems · E-Commerce · ERP · Business Automation
+
+DevOps & Deployment
+Linux · Docker · CI/CD · Cloud · Application Deployment
 ```
 
 ---
 
-## Things I Build
+## Areas of Focus
 
-| Area                    | Focus                                        |
-| ----------------------- | -------------------------------------------- |
-| Full-Stack Applications | MERN-based production applications           |
-| Business Systems        | Management & workflow applications           |
-| E-Commerce              | Customer-facing platforms & admin systems    |
-| APIs                    | REST APIs, authentication & backend services |
-| ERP                     | Odoo & business process automation           |
-| DevOps                  | Linux, Docker, deployment & infrastructure   |
-
----
-
-## Selected Interests
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   MERN STACK                                        │
-│   Building scalable full-stack applications         │
-│                                                     │
-│   BACKEND ENGINEERING                               │
-│   APIs · Architecture · Databases · Security       │
-│                                                     │
-│   DEVOPS                                            │
-│   Linux · Docker · Cloud · Deployment               │
-│                                                     │
-│   BUSINESS AUTOMATION                                │
-│   ERP · Odoo · Internal Systems                     │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+| Area                   | Focus                                                      |
+| ---------------------- | ---------------------------------------------------------- |
+| Full-Stack Development | Building complete production-ready web applications        |
+| Frontend               | Responsive, accessible and modern user interfaces          |
+| Backend                | REST APIs, authentication, business logic and architecture |
+| Databases              | Data modeling, queries, relationships and performance      |
+| Web Applications       | E-commerce, dashboards, management systems and SaaS        |
+| DevOps                 | Linux, Docker, CI/CD and cloud deployment                  |
 
 ---
 
-## GitHub
+## Development Approach
+
+I focus on building applications that are:
+
+**Clean** — Maintainable and organized code
+
+**Practical** — Designed around real business requirements
+
+**Responsive** — Built for desktop, tablet and mobile
+
+**Scalable** — Structured to grow as the application grows
+
+**Reliable** — Proper validation, authentication and error handling
+
+---
+
+## Currently Learning
+
+**Advanced Full-Stack Development**
+
+TypeScript · Next.js · Backend Architecture · PostgreSQL · Redis · Performance
+
+**DevOps & Infrastructure**
+
+Linux · Docker · CI/CD · Cloud · Deployment · Infrastructure
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -125,32 +141,22 @@ ERP · Odoo · Business Automation · Management Systems
 
 ---
 
-## Currently Learning
+## Let's Build Something
+
+I'm interested in working on **web applications, SaaS products, business platforms, APIs and automation systems**.
 
 <div align="center">
-
-**DevOps**
-Linux · Docker · CI/CD · Cloud · Infrastructure
-
-**Advanced Full-Stack Development**
-TypeScript · Backend Architecture · Performance · Scalability
-
-</div>
-
----
-
-<div align="center">
-
-### Build. Learn. Ship. Repeat.
-
-<br>
 
 <a href="https://github.com/Saifullah-Afridi">
   <img src="https://img.shields.io/github/followers/Saifullah-Afridi?label=Followers&style=flat-square&logo=github" />
 </a>
 
-<a href="https://github.com/Saifullah-Afridi">
+<a href="https://komarev.com/ghpvc/?username=Saifullah-Afridi">
   <img src="https://komarev.com/ghpvc/?username=Saifullah-Afridi&style=flat-square&label=Profile+Views" />
 </a>
+
+<br><br>
+
+### Build. Learn. Ship. Repeat.
 
 </div>
