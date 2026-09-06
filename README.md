@@ -1,8 +1,6 @@
 <div align="center">
 
-# Saif Ullah
-
-**MERN Developer · Web Developer**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:1a1a2e&height=180&section=header&text=Saif%20Ullah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Developer%20%C2%B7%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 I design and ship production-grade web applications — from architecture and APIs to deployment — with a focus on maintainability, performance, and real business outcomes.
 
@@ -88,3 +86,5 @@ I'm currently deepening my expertise in **DevOps and cloud infrastructure** — 
 [![Profile Views](https://komarev.com/ghpvc/?username=Saifullah-Afridi&style=flat-square&label=Profile+Views)](https://github.com/Saifullah-Afridi)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
