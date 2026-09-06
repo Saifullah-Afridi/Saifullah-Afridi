@@ -67,17 +67,30 @@ I'm currently deepening my expertise in **DevOps and cloud infrastructure** — 
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saifullah-Afridi&theme=github_dark" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saifullah-Afridi&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saifullah-Afridi&theme=github_dark" width="90%"/>
 
 </div>
 
 ---
 
+## Engineering Practices
+
+- **System Design** — service boundaries, data modeling, caching strategy, scalability trade-offs
+- **API Architecture** — RESTful design, versioning, rate limiting, role-based access control (RBAC)
+- **Security** — JWT/OAuth2 authentication, input validation, encryption at rest, OWASP fundamentals
+- **Performance** — query optimization, indexing, Redis caching, lazy loading, code splitting
+- **Testing & Quality** — unit/integration testing (Jest, Supertest), code review discipline
+- **Real-Time Systems** — WebSockets, event-driven architecture, message queues (BullMQ/Redis)
+- **Microservices & Modularity** — decoupled services, API gateways, inter-service communication
+- **CI/CD & Deployment** — automated pipelines, containerized deployments, environment management
+
+---
+
 ## Currently Sharpening
 
-- **DevOps & Infrastructure** — Linux, Docker, CI/CD, cloud deployment
-- **Backend Architecture at Scale** — performance, security, and system design for production workloads
+- **DevOps & Cloud Infrastructure** — Docker, CI/CD pipelines, AWS deployment, Linux server management
+- **Distributed Systems & Scalability** — microservices, message queues, load balancing, horizontal scaling
+- **Advanced Backend Architecture** — clean architecture, domain-driven design, system design at scale
 
 ---
 
