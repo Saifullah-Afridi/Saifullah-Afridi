@@ -59,21 +59,6 @@ I'm currently deepening my expertise in **DevOps and cloud infrastructure** — 
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Saifullah-Afridi&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifullah-Afridi&layout=compact&theme=dark&hide_border=true" width="42%"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saifullah-Afridi&theme=dark&hide_border=true" width="60%"/>
-
-</div>
-
----
-
 ## Engineering Practices
 
 - **System Design** — service boundaries, data modeling, caching strategy, scalability trade-offs
